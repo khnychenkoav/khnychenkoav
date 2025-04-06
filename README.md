@@ -5,10 +5,22 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Plant Disease Detector (https://github.com/khnychenkoav/PlantDiseaseDetector.git)<br>👯 I’m looking to collaborate on Kotlin Educational (https://github.com/khnychenkoav/KotlinEducational.git)<br>🌱 I’m currently learning Kotlin Multiplatform and Android System Development<br>⚡ I really like playing guitar and armwrestling
+🔭 I’m currently working on Kotlin Educational (https://github.com/khnychenkoav/KotlinEducational.git) and Plant Disease Detector (https://github.com/khnychenkoav/PlantDiseaseDetector.git)<br>👯 I’m looking to collaborate on Kotlin Educational (https://github.com/khnychenkoav/KotlinEducational.git)<br>🌱 I’m currently learning Kotlin Multiplatform and Android System Development<br>⚡ I really like playing guitar and armwrestling
 
+# 📖 Kotlin Educational:
+<h3>A growing, hands-on Kotlin learning repository focused on programming fundamentals, data structures, and algorithmic thinking</h3>
 
-## 🌐 Socials:
+<h2>🌐 Visit the Official Kotlin Educational Website and GitHub</h2>
+<p align="center">
+  <a href="https://kotlinedu.vercel.app/">
+    <img src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color=000000" width="50" height="50">
+  </a>
+  <a href="https://github.com/khnychenkoav/KotlinEducational">
+    <img src="https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000" width="50" height="50">
+  </a>
+</p>
+
+## 🖥 Socials:
 <p align="center">
   <a href="https://t.me/khnartem">
     <img src="https://github.com/user-attachments/assets/3964f2bc-816d-4343-ba93-98a75cdfb834" width="50" height="50">
